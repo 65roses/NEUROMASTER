@@ -1,4 +1,4 @@
-NEUROMASTER Crypto Currency Beginning
+NEUROMASTER Crypto Currency - Beginning of world NEURO Crypt Technology
 
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
